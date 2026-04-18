@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Data files
+*.csv
+*.xlsx
+*.json
+
+# Data folders
+data/
+datasets/
+
+# Optional (VS Code settings)
+.vscode/
