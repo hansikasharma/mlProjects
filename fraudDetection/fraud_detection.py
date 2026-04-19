@@ -3,7 +3,7 @@ import pandas as pd
 import joblib
 
 # Load the trained model
-model = joblib.load('fraud_detection_model.pkl')
+model = joblib.load('fraud_detection_model1.pkl')
 # Define the Streamlit app
 st.title("Fraud Detection App")
 st.markdown("Enter transaction details to predict if it's fraudulent or not.")
